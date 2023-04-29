@@ -1,0 +1,6 @@
+neovim.json
+build
+tasks.txt
+compile_commands.json
+.cache
+

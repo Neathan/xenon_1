@@ -1,0 +1,6 @@
+[submodule "xenon/libs/glfw"]
+	path = xenon/libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "xenon/libs/spdlog"]
+	path = xenon/libs/spdlog
+	url = https://github.com/gabime/spdlog.git
